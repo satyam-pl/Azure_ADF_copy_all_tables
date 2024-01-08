@@ -1,0 +1,1 @@
+# Azure_ADF_copy_all_tables
